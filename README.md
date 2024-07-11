@@ -21,7 +21,6 @@ A simple and efficient web crawler for Python.
 ## Installation
 
 Install using pip:
-
 ```sh
 pip install tiny-web-crawler
 ```
